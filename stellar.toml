@@ -1,5 +1,14 @@
 VERSION="2.1.0"
 NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
 
-ACCOUNTS=["GA72FQOMHYUCNEMZN7GY6OBWQTQEXYL43WPYCY2FE3T452USNQ7KSV6E"]
+ACCOUNTS=["GCDE6WIBHWOY2EGPAX6EOGXIBXNY3DEC72WNFVTEKFCRKDJFY7ADKNRT"]
 SQ02_EASTER_EGG="Log into series 2 of Stellar Quest then visit quest.stellar.org/series2. Finally drag and drop your Stellar Quest series 2 badge PNG images onto the screen. Enjoy!"
+
+[[CURRENCIES]]
+code="VTUBEPOINT"
+issuer="GCDE6WIBHWOY2EGPAX6EOGXIBXNY3DEC72WNFVTEKFCRKDJFY7ADKNRT"
+display_decimals=2
+name="VTUBE POINT"
+desc="Point yang didapatkan dari melihat iklan di aplikasi vtube"
+conditions="Lihat Iklan Dan Dapatkan VP"
+image="https://1.bp.blogspot.com/-_ZBgPCP-NH0/Xz0Klauz2aI/AAAAAAAACxI/0mjPdF4ZI0YPZM4XOxf3NloGdUHsCswNgCLcBGAsYHQ/s400/Logo%2BVTube.png"
