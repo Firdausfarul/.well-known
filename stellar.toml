@@ -1,29 +1,7 @@
-ACCOUNTS=[
-"GCE33B7SHA73NWGCJ7TUYC2RVBOSKPNTVYHIHX6SL7676KMQCNTFBHSW",
-"GCT7CKT3TZ3MBR5F5JR6VWSI6BP4NUPMR52TGP7GTCOTP337PJ76F43J"]
-
-[DOCUMENTATION]
-ORG_NAME="Firdaus Farul"
-ORG_URL="https://firdausfarul.me"
-ORG_DESCRIPTION="Student interested in crypto"
-ORG_PHYSICAL_ADDRESS="Lottumstrasse 26, 10119 Berlin, Germany"
-ORG_PHONE_NUMBER="+4932211122241"
-ORG_TWITTER="@firdausfarul_"
-ORG_GITHUB="firdausfarul"
-ORG_KEYBASE="fahrul"
-ORG_OFFICIAL_EMAIL="just contact me on keybase"
-
-[[PRINCIPALS]]
-name="Firdaus farul"
-email="just conact me on keybase"
-twitter="@Firdausfarul_"
-
 [[CURRENCIES]]
-//code="BB1"
-issuer="GD5J6HLF5666X4AZLTFTXLY46J5SW7EXRKBLEYPJP33S33MXZGV6CWFN"
+code="OWLT"
+issuer="GCDE6WIBHWOY2EGPAX6EOGXIBXNY3DEC72WNFVTEKFCRKDJFY7ADKNRT"
 display_decimals=0
-name="Bitbond Finance Tokenized Bond 1"
-desc="yahay papale papale"
-conditions="The number of issued BB1 tokens equals the amount bought by investors in the primary offering until 08-JUL-2019."
-fixed_number="2,667,360"
-image="https://www.bitbondsto.com/images/currencies/bb1.png"//
+name="OWL TOKEN"
+desc="We Serve OWL Token grind"
+image="https://1.bp.blogspot.com/-_ZBgPCP-NH0/Xz0Klauz2aI/AAAAAAAACxI/0mjPdF4ZI0YPZM4XOxf3NloGdUHsCswNgCLcBGAsYHQ/s400/Logo%2BVTube.png"
